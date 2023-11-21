@@ -18,7 +18,7 @@ Concurrently, I am pursuing an Advanced Vocational Training Module in Web Applic
 - React
 - Next.js
 - Github
-- Gitlub
+- GitLab
 - TailwindCSS
 
 ### 🎓 Education
