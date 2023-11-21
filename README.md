@@ -7,7 +7,7 @@ I am a self-taught Web Developer, currently working for Nordic Optical Telescope
 Concurrently, I am pursuing an Advanced Vocational Training Module in Web Application Development. 
 
 ### 📫 Contact  
-[Email](popovalejandro@gmail.com) | [LinkedIn](https://www.linkedin.com/in/oleksandr-popov-236b62227/)
+[Email](mailto:popovalejandro@gmail.com) | [LinkedIn](https://www.linkedin.com/in/oleksandr-popov-236b62227/)
 
 ### 🌱 Skills
 - HTML
