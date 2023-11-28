@@ -28,4 +28,4 @@ Concurrently, I am pursuing an Advanced Vocational Training Module in Web Applic
   Web Application Development · (September 2022 - Present)
 - **Vasyl Stefanyk Precarpathian National University**  
   Bachelor's degree  
-  Turism · (September 2006 - July 2010)
+  Tourism · (September 2006 - July 2010)
