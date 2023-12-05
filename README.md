@@ -15,7 +15,7 @@ Concurrently, I am pursuing an Advanced Vocational Training Module in Web Applic
 - CSS
 - JavaScript
 - Git
-- MySQL
+- SQL
 - React
 - Next.js
 - Github
