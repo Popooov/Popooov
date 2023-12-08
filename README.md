@@ -4,7 +4,7 @@
 
 ### 🔭 About
 I am a self-taught Web Developer, currently working for Nordic Optical Telescope.  
-Concurrently, I am pursuing an Advanced Vocational Training Module in Web Application Development. 
+Concurrently, I am pursuing a Higher Level Training Cycle in Web Application Development. 
 
 ### 📫 Contact  
 - [Email](mailto:popovalejandro@gmail.com)
