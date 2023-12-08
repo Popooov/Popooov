@@ -24,7 +24,7 @@ Concurrently, I am pursuing an Advanced Vocational Training Module in Web Applic
 
 ### 🎓 Education
 - **IES José María Pérez Pulido**  
-  Advanced Vocational Training Module  
+  Higher Level Training Cycle  
   Web Application Development · (September 2022 - Present)
 - **Vasyl Stefanyk Precarpathian National University**  
   Bachelor's degree  
