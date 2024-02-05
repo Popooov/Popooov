@@ -3,8 +3,8 @@
 #### Breña Alta, Canary Islands, Spain
 
 ### 🔭 About
-I am a self-taught Web Developer, currently working for Nordic Optical Telescope.  
-Concurrently, I am pursuing a Higher Level Training Cycle in Web Application Development. 
+Formerly a self-taught Web Developer at Nordic Optical Telescope.
+Currently seeking new challenges while pursuing a Higher Level Training Cycle in Web Application Development. 
 
 ### 📫 Contact  
 - [Email](mailto:popovalejandro@gmail.com)
