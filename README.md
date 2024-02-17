@@ -3,7 +3,7 @@
 #### Breña Alta, Canary Islands, Spain
 
 ### 🔭 About
-Formerly a self-taught Web Developer at Nordic Optical Telescope.
+Formerly a self-taught Web Developer at Nordic Optical Telescope.\
 Currently seeking new challenges while pursuing a Higher Level Training Cycle in Web Application Development. 
 
 ### 📫 Contact  
