@@ -1,6 +1,6 @@
 ## Oleksandr Popov
 ### Frontend Developer | React
-#### Breña Alta, Canary Islands, Spain
+#### Breña Alta, La Palma, Canary Islands, Spain
 
 ### 🔭 About
 As a self-taught Web Developer who began my journey at Nordic Optical Telescope,\
