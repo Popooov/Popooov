@@ -21,6 +21,7 @@ I'm currently seeking new challenges while pursuing a Higher Level Training Cycl
 - Github
 - GitLab
 - TailwindCSS
+- UI Design
 
 ### 🎓 Education
 - **IES José María Pérez Pulido**  
