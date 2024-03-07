@@ -22,6 +22,7 @@ I'm currently seeking new challenges while pursuing a Higher Level Training Cycl
 - GitLab
 - TailwindCSS
 - UI Design
+- EventSource API (SSE)
 
 ### 🎓 Education
 - **IES José María Pérez Pulido**  
