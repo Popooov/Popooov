@@ -17,6 +17,7 @@ I'm currently seeking new challenges while pursuing a Higher Level Training Cycl
 - Git
 - SQL
 - React
+- Angular
 - Next.js
 - Github
 - GitLab
