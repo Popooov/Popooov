@@ -4,8 +4,8 @@
 
 ### 🔭 About
 As a self-taught Web Developer who began my journey at Nordic Optical Telescope,\
-I'm currently seeking new challenges while pursuing a Higher Level Training Cycle in Web Application Development\
-I'm always open to new connections and exciting collaborations!
+I'm currently seeking new challenges while pursuing a Higher Level Training Cycle in Web Application Development.\
+I'm open to new connections and exciting collaborations!
 
 ### 📫 Contact  
 - [Email](mailto:popovalejandro@gmail.com)
