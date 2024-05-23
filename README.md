@@ -15,6 +15,8 @@ I'm open to new connections and exciting collaborations!
 - HTML
 - CSS
 - JavaScript
+- OOP
+- Java
 - Git
 - SQL
 - React
