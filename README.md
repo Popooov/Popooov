@@ -15,7 +15,6 @@ I'm open to new connections and exciting collaborations!
 - HTML
 - CSS
 - JavaScript
-- OOP
 - Java
 - Git
 - SQL
@@ -28,6 +27,7 @@ I'm open to new connections and exciting collaborations!
 - EventSource API (SSE)
 - D3.js
 - UI Design
+- OOP
 
 ### 🎓 Education
 - **IES José María Pérez Pulido**  
