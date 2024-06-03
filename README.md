@@ -25,9 +25,8 @@ I'm open to new connections and exciting collaborations!
 - GitLab
 - TailwindCSS
 - EventSource API (SSE)
-- D3.js
-- UI Design
 - OOP
+- D3.js
 
 ### 🎓 Education
 - **IES José María Pérez Pulido**  
