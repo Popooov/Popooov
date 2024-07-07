@@ -18,6 +18,7 @@ I'm open to new connections and exciting collaborations!
 - Java
 - Git
 - SQL
+- NoSQL
 - React
 - Next.js
 - React Query
