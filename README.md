@@ -1,38 +1,84 @@
-## Oleksandr Popov
-### Frontend Developer | React
-#### Breña Alta, La Palma, Canary Islands, Spain
+<div style="background-color:#1a1b26; padding: 30px 20px; border-radius: 15px;">
+  <h1 style="color:#7aa2f7; font-size: 2.5em;">Hi, I'm Oleksandr Popov 👋</h1>
+  <p style="color:#c0caf5; font-size: 1.2em;">Web Developer · Passionate about Technology · Always learning and growing</p>
+</div>
 
-### 🔭 About
-As a self-taught Web Developer who began my journey at Nordic Optical Telescope,\
-I'm currently seeking new challenges while pursuing a Higher Level Training Cycle in Web Application Development.\
-I'm open to new connections and exciting collaborations!
+---
 
-### 📫 Contact  
-- [Email](mailto:popovalejandro@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/oleksandr-popov-236b62227/)
+<h2>🛠️ Technologies I’ve worked with</h2>
 
-### 🌱 Skills
-- HTML
-- CSS
-- JavaScript
-- Java
-- Git
-- SQL
-- NoSQL
-- React
-- Next.js
-- React Query
-- Github
-- GitLab
-- TailwindCSS
-- EventSource API (SSE)
-- OOP
-- D3.js
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,php,git,mysql,mongodb,react,nextjs,vue,laravel,tailwind,bootstrap,docker,github,gitlab,d3" />
+</p>
 
-### 🎓 Education
-- **IES José María Pérez Pulido**  
-  Higher Level Training Cycle  
-  Web Application Development · (September 2022 - Present)
-- **Vasyl Stefanyk Precarpathian National University**  
-  Bachelor's degree  
-  Tourism · (September 2006 - July 2010)
+---
+
+<h2>🎓 Education</h2>
+
+<table>
+  <tr>
+    <td align="left" valign="top" width="60%">
+      <strong>IES José María Pérez Pulido</strong><br/>
+      Higher Level Training Cycle — Web Application Development<br/>
+      <em>September 2022 – Present</em>
+    </td>
+  </tr>
+  <tr><td><br/></td></tr>
+  <tr>
+    <td align="left" valign="top" width="60%">
+      <strong>Vasyl Stefanyk Precarpathian National University</strong><br/>
+      Bachelor's Degree — Tourism<br/>
+      <em>September 2006 – July 2010</em>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2>🚀 Featured Projects</h2>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>⚔️ GitHub Battle</h3>
+      <p>An app that compares two GitHub users and shows who wins based on activity.</p>
+      <p><strong>Tech:</strong> React, GitHub API, Webpack</p>
+      <p>
+        <a href="https://github.com/Popooov/github-battle" target="_blank">🔗 Repo</a> | 
+        <a href="https://github-battle-hooks.netlify.app/" target="_blank">🌐 Demo</a>
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3>📰 HackerNews Clone</h3>
+      <p>Hacker News clone that fetches and displays stories using React and the official API.</p>
+      <p><strong>Tech:</strong> React, Axios, Hacker News API</p>
+      <p>
+        <a href="https://github.com/Popooov/hackernews-clone" target="_blank">🔗 Repo</a> | 
+        <a href="https://hackernews-clone-hooks.netlify.app/" target="_blank">🌐 Demo</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2>📫 Contact</h2>
+
+<p>
+  <strong>Email:</strong> <a href="mailto:popovalejandro@gmail.com">popovalejandro@gmail.com</a><br/>
+  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/oleksandr-popov-236b62227/" target="_blank">Oleksandr Popov</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Popooov&show_icons=true&theme=tokyonight" alt="Popooov GitHub stats" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
+</p>
