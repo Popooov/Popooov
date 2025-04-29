@@ -1,7 +1,5 @@
-<div style="background-color:#1a1b26; padding: 30px 20px; border-radius: 15px;">
-  <h1 style="color:#7aa2f7; font-size: 2.5em;">Hi, I'm Oleksandr Popov 👋</h1>
-  <p style="color:#c0caf5; font-size: 1.2em;">Web Developer · Passionate about Technology · Always learning and growing</p>
-</div>
+<h1>Hi, I'm Oleksandr Popov 👋</h1>
+<p>Web Developer · Passionate about Technology · Always learning and growing</p>
 
 ---
 
