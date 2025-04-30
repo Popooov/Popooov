@@ -63,8 +63,8 @@
 <h2 align="center">📫 Contact</h2>
 
 <p align="center">
-  <strong>Email:</strong> <a href="mailto:popovalejandro@gmail.com">popovalejandro@gmail.com</a><br/>
-  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/oleksandr-popov-236b62227/" target="_blank">Oleksandr Popov</a>
+  <strong>Email: </strong><a href="mailto:popovalejandro@gmail.com">popovalejandro@gmail.com</a><br><br>
+  <strong>LinkedIn: </strong><a href="https://www.linkedin.com/in/oleksandr-popov-236b62227/" target="_blank">Oleksandr Popov</a>
 </p>
 
 ---
@@ -75,8 +75,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Popooov&layout=compacts&how_icons=true&theme=shadow_green&hide_border=true" alt="Popooov GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Popooov&layout=compact&theme=shadow_green&hide_border=true" />
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
