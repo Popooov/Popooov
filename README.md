@@ -27,7 +27,7 @@
     <td width="50%" align="left">
       <h3>📰 HackerNews Clone</h3>
       <p>Hacker News clone that fetches and displays stories using React and the official API.</p>
-      <p><strong>Tech:</strong> React, Axios, Hacker News API</p>
+      <p><strong>Tech:</strong> React, Fetch API, Hacker News API</p>
       <p>
         <a href="https://github.com/Popooov/hackernews-clone" target="_blank">🔗 Repo</a> | 
         <a href="https://hackernews-clone-hooks.netlify.app/" target="_blank">🌐 Demo</a>
