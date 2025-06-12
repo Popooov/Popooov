@@ -64,7 +64,7 @@
 
 <p align="center">
   <strong>Email: </strong><a href="mailto:popovalejandro@gmail.com">popovalejandro@gmail.com</a><br><br>
-  <strong>LinkedIn: </strong><a href="https://www.linkedin.com/in/oleksandr-popov-236b62227/" target="_blank">Oleksandr Popov</a>
+  <strong>LinkedIn: </strong><a href="https://www.linkedin.com/in/popov-dev/" target="_blank">Oleksandr Popov</a>
 </p>
 
 ---
