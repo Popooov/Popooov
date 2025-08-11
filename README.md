@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Oleksandr Popov 👋</h1>
+<h1 align="center">Hi, I'm Oleksandr Popov</h1>
 <p align="center">Web Developer · Passionate about Technology · Always learning and growing</p>
 
 ---
 
-<h2 align="center">🛠️ Technologies I’ve worked with</h2>
+<h2 align="center">Technologies I’ve worked with</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,php,git,mysql,mongodb,react,nextjs,vue,laravel,tailwind,bootstrap,docker,github,gitlab,d3" />
@@ -11,21 +11,12 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 <table align="center">
   <tr>
     <td width="50%" align="left">
-      <h3>⚔️ GitHub Battle</h3>
-      <p>An app that compares two GitHub users and shows who wins based on activity.</p>
-      <p><strong>Tech:</strong> React, GitHub API, Webpack</p>
-      <p>
-        <a href="https://github.com/Popooov/github-battle" target="_blank">🔗 Repo</a> | 
-        <a href="https://github-battle-hooks.netlify.app/" target="_blank">🌐 Demo</a>
-      </p>
-    </td>
-    <td width="50%" align="left">
-      <h3>📰 HackerNews Clone</h3>
+      <h3>HackerNews Clone</h3>
       <p>Hacker News clone that fetches and displays stories using React and the official API.</p>
       <p><strong>Tech:</strong> React, Fetch API, Hacker News API</p>
       <p>
@@ -38,7 +29,7 @@
 
 ---
 
-<h2 align="center">🎓 Education</h2>
+<h2 align="center">Education</h2>
 
 <table align="center">
   <tr>
@@ -60,7 +51,7 @@
 
 ---
 
-<h2 align="center">📫 Contact</h2>
+<h2 align="center">Contact</h2>
 
 <p align="center">
   <strong>Email: </strong><a href="mailto:popovalejandro@gmail.com">popovalejandro@gmail.com</a><br><br>
@@ -69,7 +60,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Popooov&layout=compacts&how_icons=true&theme=shadow_green&hide_border=true" alt="Popooov GitHub stats" />
