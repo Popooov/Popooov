@@ -6,7 +6,28 @@
 <h2 align="center">Technologies I’ve worked with</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,php,git,mysql,mongodb,react,nextjs,vue,laravel,tailwind,bootstrap,docker,github,gitlab,d3" />
+  <strong>Frontend</strong><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,html,css,tailwind,bootstrap" />
+</p>
+
+<p align="center">
+  <strong>Backend</strong><br>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python" />
+</p>
+
+<p align="center">
+  <strong>Tools</strong><br>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel,netlify" />
+</p>
+
+<p align="center">
+  <strong>Databases</strong><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+</p>
+
+<p align="center">
+  <strong>Design</strong><br>
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ---
@@ -65,8 +86,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Popooov&layout=compacts&how_icons=true&theme=shadow_green&hide_border=true" alt="Popooov GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Popooov&layout=compact&theme=shadow_green&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
 </p>
