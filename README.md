@@ -57,7 +57,7 @@
     <td align="left" valign="top" width="60%">
       <strong>IES José María Pérez Pulido</strong><br/>
       Higher Level Training Cycle — Web Application Development<br/>
-      <em>September 2022 – 2025</em>
+      <em>September 2022 – May 2025</em>
     </td>
   </tr>
   <tr><td><br/></td></tr>
