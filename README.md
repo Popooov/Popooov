@@ -81,7 +81,7 @@
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
+<!-- <h2 align="center">GitHub Stats</h2> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Popooov&layout=compacts&how_icons=true&theme=shadow_green&hide_border=true" alt="Popooov GitHub stats" />
