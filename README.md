@@ -1,82 +1,109 @@
-<h1 align="center">Hi, I'm Oleksandr Popov</h1>
-<p align="center">Web Developer · Passionate about Technology · Always learning and growing</p>
+# Oleksandr Popov
+
+Frontend Developer focused on React and modern web applications.
+
+Higher Technician in Web Application Development with experience at the Nordic Optical Telescope, building interfaces for astronomical systems and working on data analysis and anomaly detection using Python and machine learning.
 
 ---
 
-<h2 align="center">Technologies I’ve worked with</h2>
+## Tech Stack
 
-<p align="center">
-  <strong>Frontend</strong><br>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,html,css,tailwind,bootstrap" />
-</p>
+**Frontend**  
+React · Next.js · JavaScript · TypeScript · TailwindCSS
 
-<p align="center">
-  <strong>Backend</strong><br>
-  <img src="https://skillicons.dev/icons?i=php,laravel,python" />
-</p>
+**Backend**  
+Laravel · PHP · REST APIs
 
-<p align="center">
-  <strong>Tools</strong><br>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel,netlify" />
-</p>
+**Databases**  
+MySQL · PostgreSQL · SQLite
 
-<p align="center">
-  <strong>Databases</strong><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
-</p>
-
-<p align="center">
-  <strong>Design</strong><br>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
+**Other**  
+Python · Docker · Linux · Git
 
 ---
 
-<h2 align="center">Featured Projects</h2>
+## Projects
 
-<table align="center">
-  <tr>
-    <td width="50%" align="left">
-      <h3>HackerNews Clone</h3>
-      <p>Hacker News clone that fetches and displays stories using React and the official API.</p>
-      <p><strong>Tech:</strong> React, Fetch API, Hacker News API</p>
-      <p>
-        <a href="https://github.com/Popooov/hackernews-clone" target="_blank">🔗 Repo</a> | 
-        <a href="https://hackernews-clone-hooks.netlify.app/" target="_blank">🌐 Demo</a>
-      </p>
-    </td>
-  </tr>
-</table>
+### GEEVIH Platform
+Web platform developed for **GEEVIH (Grupo de Enfermería Experta en VIH)**, a professional group integrated within **SEISIDA (Sociedad Española Interdisciplinaria del Sida)**.
 
----
+Features:
+- News and announcements publishing system
+- Training and events management (courses, webinars, congresses)
+- Members directory with profiles and affiliations
+- Resources library for clinical and educational materials
+- Admin dashboard for content management
+- Cloud-based media storage and optimization
 
-<h2 align="center">Education</h2>
+Tech  
+Laravel · React · Inertia · TailwindCSS · Filament · Cloudinary · MySQL
 
-<table align="center">
-  <tr>
-    <td align="left" valign="top" width="60%">
-      <strong>IES José María Pérez Pulido</strong><br/>
-      Higher Level Training Cycle — Web Application Development<br/>
-      <em>September 2022 – May 2025</em>
-    </td>
-  </tr>
-  <tr><td><br/></td></tr>
-  <tr>
-    <td align="left" valign="top" width="60%">
-      <strong>Vasyl Stefanyk Precarpathian National University</strong><br/>
-      Bachelor's Degree — Tourism<br/>
-      <em>September 2006 – July 2010</em>
-    </td>
-  </tr>
-</table>
+Live  
+https://geevih.seisida.es
+
+Status  
+Deployed · Active development
 
 ---
 
-<h2 align="center">Contact</h2>
+### HackerNews Clone
+Simple Hacker News clone that fetches and displays stories using the official API.
 
-<p align="center">
-  <strong>Email: </strong><a href="mailto:popovalejandro@gmail.com">popovalejandro@gmail.com</a><br><br>
-  <strong>LinkedIn: </strong><a href="https://www.linkedin.com/in/popov-dev/" target="_blank">Oleksandr Popov</a>
-</p>
+Tech  
+React · React Router · Hacker News API
+
+Repo  
+https://github.com/Popooov/hackernews-clone
+
+Live Demo  
+https://hackernews-clone-hooks.netlify.app/
 
 ---
+
+## Experience
+
+### Nordic Optical Telescope
+
+Developed internal tools and monitoring systems to support telescope operations and data analysis.
+
+Work included:
+
+- internal monitoring applications  
+- data analysis pipelines  
+- real-time anomaly detection system for telescope telemetry  
+- interactive dashboards for operational data  
+
+Tech used:
+
+Frontend & Visualization  
+React · Next.js · TailwindCSS · D3.js 
+
+Data & ML  
+Python · Pandas · NumPy · Isolation Forest 
+
+Real-time communication  
+EventSource API  
+
+*(Code is private as it belongs to the observatory)*
+
+---
+
+## Education
+
+**Higher Degree in Web Application Development (DAW)**  
+IES José María Pérez Pulido  
+2022 — 2025
+
+**Bachelor's Degree in Tourism**  
+Vasyl Stefanyk Precarpathian National University  
+2006 — 2010
+
+---
+
+## Contact
+
+Email  
+popovalejandro@gmail.com  
+
+LinkedIn  
+https://www.linkedin.com/in/popov-dev/
