@@ -41,7 +41,7 @@ Laravel · Inertia · React · TailwindCSS · Filament · Cloudinary · MySQL
 Live  
 https://geevih.seisida.es
 
-Repo
+Repo  
 https://github.com/Popooov/geevih-app
 
 Status  
