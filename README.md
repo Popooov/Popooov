@@ -36,10 +36,13 @@ Features:
 - Cloud-based media storage and optimization
 
 Tech  
-Laravel · React · Inertia · TailwindCSS · Filament · Cloudinary · MySQL
+Laravel · Inertia · React · TailwindCSS · Filament · Cloudinary · MySQL
 
 Live  
 https://geevih.seisida.es
+
+Repo
+https://github.com/Popooov/geevih-app
 
 Status  
 Deployed · Active development
