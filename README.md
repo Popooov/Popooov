@@ -1,8 +1,6 @@
 # Oleksandr Popov
 
-Frontend Developer focused on React and modern web applications.
-
-Higher Technician in Web Application Development with experience at the Nordic Optical Telescope, building interfaces for astronomical systems and working on data analysis and anomaly detection using Python and machine learning.
+Full Stack Web Developer specialized in React, Next.js, Laravel, and TypeScript, with a background in Web Application Development and hands-on experience in real-world production projects.
 
 ---
 
